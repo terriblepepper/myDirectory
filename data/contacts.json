@@ -1,0 +1,154 @@
+{
+    "Alice Smith": [
+        {
+            "birthday": "2000-11-11",
+            "email": "alice@example.com",
+            "name": "Alice Smith",
+            "phone": "14513383139"
+        }
+    ],
+    "Amanda Harris": [
+        {
+            "birthday": "1978-09-14",
+            "email": "amanda@example.com",
+            "name": "Amanda Harris",
+            "phone": "13798765432"
+        }
+    ],
+    "Andrew Rodriguez": [
+        {
+            "birthday": "1973-10-03",
+            "email": "andrew@example.com",
+            "name": "Andrew Rodriguez",
+            "phone": "14987654321"
+        }
+    ],
+    "Bob Johnson": [
+        {
+            "birthday": "1985-09-20",
+            "email": "bob@example.com",
+            "name": "Bob Johnson",
+            "phone": "18612345678"
+        }
+    ],
+    "Christopher Lee": [
+        {
+            "birthday": "1980-11-29",
+            "email": "christopher@example.com",
+            "name": "Christopher Lee",
+            "phone": "17898765432"
+        }
+    ],
+    "Daniel Hall": [
+        {
+            "birthday": "1976-05-12",
+            "email": "daniel@example.com",
+            "name": "Daniel Hall",
+            "phone": "13987654321"
+        }
+    ],
+    "David Martinez": [
+        {
+            "birthday": "1991-06-30",
+            "email": "david@example.com",
+            "name": "David Martinez",
+            "phone": "15812345678"
+        }
+    ],
+    "Elizabeth Clark": [
+        {
+            "birthday": "1979-02-28",
+            "email": "elizabeth@example.com",
+            "name": "Elizabeth Clark",
+            "phone": "14798765432"
+        }
+    ],
+    "Emily Brown": [
+        {
+            "birthday": "1988-12-10",
+            "email": "emily@example.com",
+            "name": "Emily Brown",
+            "phone": "15987654321"
+        }
+    ],
+    "Isabella Scott": [
+        {
+            "birthday": "1970-04-30",
+            "email": "isabella@example.com",
+            "name": "Isabella Scott",
+            "phone": "18812345678"
+        }
+    ],
+    "Jennifer Lewis": [
+        {
+            "birthday": "1995-08-17",
+            "email": "jennifer@example.com",
+            "name": "Jennifer Lewis",
+            "phone": "15798765432"
+        }
+    ],
+    "Jessica White": [
+        {
+            "birthday": "1987-04-18",
+            "email": "jessica@example.com",
+            "name": "Jessica White",
+            "phone": "17987654321"
+        }
+    ],
+    "Joseph Young": [
+        {
+            "birthday": "1996-03-20",
+            "email": "joseph@example.com",
+            "name": "Joseph Young",
+            "phone": "13812345678"
+        }
+    ],
+    "Matthew Thompson": [
+        {
+            "birthday": "1982-07-22",
+            "email": "matthew@example.com",
+            "name": "Matthew Thompson",
+            "phone": "17798765432"
+        }
+    ],
+    "Michael Wilson": [
+        {
+            "birthday": "1975-03-25",
+            "email": "michael@example.com",
+            "name": "Michael Wilson",
+            "phone": "14987654321"
+        }
+    ],
+    "Olivia Walker": [
+        {
+            "birthday": "1984-01-07",
+            "email": "olivia@example.com",
+            "name": "Olivia Walker",
+            "phone": "18612345678"
+        }
+    ],
+    "Sarah Taylor": [
+        {
+            "birthday": "1983-08-05",
+            "email": "sarah@example.com",
+            "name": "Sarah Taylor",
+            "phone": "13798765432"
+        }
+    ],
+    "Sophia King": [
+        {
+            "birthday": "1974-12-01",
+            "email": "sophia@example.com",
+            "name": "Sophia King",
+            "phone": "18987654321"
+        }
+    ],
+    "William Wright": [
+        {
+            "birthday": "1981-06-08",
+            "email": "william@example.com",
+            "name": "William Wright",
+            "phone": "13987654321"
+        }
+    ]
+}

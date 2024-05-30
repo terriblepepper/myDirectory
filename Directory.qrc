@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Directory">
+        <file>image/contactIcon.png</file>
+    </qresource>
+</RCC>
